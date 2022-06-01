@@ -1,0 +1,3 @@
+Clone Github repository
+Add files to git stage
+Commit files
